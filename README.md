@@ -1,2 +1,5 @@
-# Tracking my python progress 
-- [ ] variables
+# 🚀 Tracking my Python Progress 🐍
+
+- ✅ **Variables**
+- ✅ **Data Types**
+- ⬜ **Data Structures**

@@ -26,4 +26,4 @@ This is a basic command-line application for managing a to-do list. The program 
 - Gideon Buba
 
 ## Repository:
-[Simple To-Do List Manager Repository](link-to-your-repo)
+[Simple To-Do List Manager Repository](https://github.com/Gideon-Buba/NCAIR-PYTHON/tree/main/TO-DO%20LIST)

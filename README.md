@@ -2,5 +2,7 @@
 
 - ✅ **Variables**
 - ✅ **Data Types**
-- ⬜ **Data Structures**
-TO
+- ✅**Data Structures**
+- ⬜ **Functions**
+- ⬜️ **Indentation**
+- ⬜️ **Loops and Break**
